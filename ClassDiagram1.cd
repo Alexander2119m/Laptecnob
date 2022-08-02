@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Etapa3poo.Ficha_Administrador">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAgAAAAAAEAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Ficha_Administrador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Etapa3poo.Ficha_Vendedor">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACEAAAAAAAAAAAAAAAAAEAAAAgAAAAEAAAIAA=</HashCode>
+      <FileName>Ficha_Vendedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Etapa3poo.ClassPadre">
+    <Position X="2" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACEAAAgAIEAGAAgAAAAIEAAgAAAAAAAgAAAAA=</HashCode>
+      <FileName>ClassPadre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Etapa3poo.Ficha_Usuario">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAEAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ficha_Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Etapa3poo.Requisitos">
+    <Position X="10.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Requisitos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Etapa3poo.Decorador" Collapsed="true">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorador.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Etapa3poo.OrdenBase" Collapsed="true">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ordenbase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
